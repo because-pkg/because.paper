@@ -3,7 +3,6 @@
 #taxonomy from ebird. Code adjusted from online (taxize package) and help from Claude.ai
 ############################################################################
 
-#setwd("~/Documents/Research Projects/Collaborations and MS ideas/Phil Trans Special Issue/Empirical paper/Dataframes & Analysis")
 
 library(taxize)
 library(dplyr)
